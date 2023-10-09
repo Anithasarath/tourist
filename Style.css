@@ -1,0 +1,565 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:60%;
+    bottom: 50%;
+    }
+    iframe{
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+        width: 80%;
+        
+    }
+    
+    .video-container{
+        position: absolute;
+        width: 80%;
+        /*  
+        overflow: hidden;
+        */
+        }
+        .video-container img{
+            position: absolute;
+            transform: translate(-50%,-50%);
+            object-fit: cover;
+            top: 50%;
+            left: 50%;
+            bottom: 50%;
+        }
+    
+    .para{
+                border-radius: 30%;
+        width: 100%;
+        border: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .a{
+        line-height: 2;
+        font-size: 25px;
+        text-align: justify;
+        margin-left: 70px;
+        font-style: italic;
+        padding: 10px;
+        width: 80%;
+        bottom: 20%;
+    }
+    .c :hover{
+        color: red;
+    } 
+    .k{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+        
+    }
+    .z{
+        text-align: justify;
+        line-height: 2;
+        padding-left: 70px;
+        padding-right: 95px;
+        font-size: 20px;
+        font-family:'Times New Roman', Times, serif;
+        margin-bottom:25px;
+    }
+    .b{
+        
+        padding: 10px;
+        font-size: 20px; 
+        line-height: 2;
+        width: 80%;
+        text-align: justify;
+        margin-left: 70px;
+        font-family:'Times New Roman', Times, serif;
+        
+    }
+.link img{
+    height:40vh;  
+    width: 290px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 5px;
+    }
+
+.link img:hover{
+    height: 46vh; 
+    width: 295px;
+    
+}
+.pic{
+display: flex;
+justify-content: left;
+
+
+}
+.link{
+position: absolute;
+overflow: hidden;
+}
+.way{
+    z-index: 1;
+    }
+    .way a{
+        width: 170px;
+        font-weight: bolder;
+        font-size:22px;
+        display: flex;
+        margin-left: 28px;
+        font-family: cursive;
+
+     }
+.east{
+    display: flex;
+    justify-content: left;
+    
+}     
+.art{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.art img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+    }
+.art img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.li{
+    z-index: 1;
+}
+.li a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:28px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+
+}
+.oslo{
+    display: flex;
+    justify-content: left;
+    
+}
+.region{
+    position: absolute;
+    overflow: hidden;
+    
+}
+.region img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+    }
+.region img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.os{
+    z-index: 1;
+}
+.os a{
+    width: 150px;
+        font-weight: bolder;
+        font-size:20px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+
+}
+.Follo{
+    display: flex;
+    justify-content: left;
+    
+}     
+.reg{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.reg img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+    }
+.reg img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.fo{
+    z-index: 1;
+}
+.fo a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:33px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+
+}
+.fia{
+    display: flex;
+    justify-content: left;
+    
+    
+}     
+
+.S{
+    display: flex;
+    justify-content: left;
+    
+}     
+
+.berg{
+    display: flex;
+    justify-content: left;
+    
+    
+}   
+
+.hard{
+    display: flex;
+    justify-content: left;
+    
+    
+    
+}     
+
+.fiam{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.fiam img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 5px;
+    }
+.fiam img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.ber{
+    z-index: 1;
+}
+.ber a{
+    width:170px;
+        font-weight: bolder;
+        font-size:22px;
+        display: flex;
+        margin-left: 20px;
+        font-family: cursive;
+
+}
+.fir{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.fir img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+    
+    }
+.fir img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.fi{
+    z-index: 1;
+}
+.fi a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:30px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+
+}
+
+.A{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.A img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+    }
+.A img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.R{
+    z-index: 1;
+}
+.R a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:28px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+
+}
+.sog{
+    display: flex;
+    justify-content: left;
+    
+}     
+.fj{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.fj img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 10px;
+    }
+.fj img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.area{
+    z-index: 1;
+}
+.area a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:28px;
+        display: flex;
+        margin-left: 130px;
+        font-family: cursive;
+
+}
+.jord{
+    position: absolute;
+    overflow: hidden;
+    
+    
+}
+.jord img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+    }
+.jord img:hover{
+    height: 45vh; 
+    width: 285px;
+    
+}
+.ang{
+    z-index: 1;
+}
+.ang a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:28px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+
+}
+
+.four{
+    display: flex;
+    justify-content: left;
+}
+.our{
+    position: absolute;
+    overflow: hidden;
+}
+.trip{
+    z-index: 1;
+}
+.trip a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:22px;
+        display: flex;
+        margin-left: 28px;
+        font-family: cursive;
+        color: rgb(251, 255, 0);
+
+}
+.our img{
+    height:40vh;  
+    width: 290px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 5px;
+    
+}
+.five{
+    display: flex;        
+    justify-content: left;
+   
+}
+.v{
+    position: absolute;
+    overflow: hidden;
+    
+}
+.v img{
+    height:40vh;  
+    width: 280px;
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 130px;
+
+}
+.ve{
+    z-index: 1;
+}
+.ve a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:28px;
+        display: flex;
+        margin-left: 150px;
+        font-family: cursive;
+        color: rgb(251, 255, 0);
+
+}
+.five{
+    display: flex;        
+    justify-content: left;
+   
+}
+.v{
+    position: absolute;
+    overflow: hidden;
+    
+}
+.v img{
+    background: rgba(255, 0, 0, opacity);
+    padding-left: 430px;
+
+}
+.ve{
+    z-index: 1;
+}
+.ve a{
+    width: 170px;
+        font-weight: bolder;
+        font-size:24px;
+        display: flex;
+        margin-left: 440px;
+        font-family: cursive;
+        padding-top: 185px;
+        color: rgb(251, 255, 0);
+
+}
+.six{
+    display: flex;        
+    justify-content: left;
+   
+}
+.x{
+    position: absolute;
+    overflow: hidden;
+    
+}
+.x img{
+        background: rgba(255, 0, 0, opacity);
+    padding-left: 630px;
+    padding-top: 70px;
+
+}
+.final{
+    z-index: 1;
+}
+.final a{
+    width: 370px;
+        font-weight: bolder;
+        font-size:28px;
+        display: flex;
+        margin-left: 650px;
+        font-family: cursive;
+        padding-top: 360px;
+        color: rgb(251, 255, 0);
+        
+
+}
+.heading{
+    color: brown;
+    font-style: italic;
+    padding-left: 70px;
+    text-decoration: underline;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
